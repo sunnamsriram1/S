@@ -1,0 +1,180 @@
+#!/usr/bin/env python3
+import os
+import time
+import json
+import base64
+import shutil
+import random
+import string
+import hashlib
+import threading
+import itertools
+from datetime import datetime
+from cryptography.fernet import Fernet
+from tqdm import tqdm
+
+# ==== Spinner ====
+def loading_spinner(duration=4):
+    done = False
+    def animate():
+        for c in itertools.cycle(['⠋', '⠙', '⠹', '⠸', '⠼', '⠴', '⠦', '⠧', '⠇', '⠏']):
+            if done:
+                break
+            print(f'\r{c} Loading...', end='', flush=True)
+            time.sleep(0.1)
+    t = threading.Thread(target=animate)
+    t.start()
+    time.sleep(duration)
+    done = True
+    print('\r✅ Ready!          ')
+    tqdm.write("⚙️  Coded by SunnamSriram")
+
+# ==== Secure Input ====
+def get_secure_input(prompt):
+    try:
+        import termios, sys, tty
+        print(prompt, end='', flush=True)
+        fd = sys.stdin.fileno()
+        old = termios.tcgetattr(fd)
+        tty.setraw(fd)
+        passwd = ''
+        while True:
+            ch = sys.stdin.read(1)
+            if ch in ('\n', '\r'):
+                print()
+                break
+            elif ch == '\x7f':
+                passwd = passwd[:-1]
+            elif ch == '\x03':
+                raise KeyboardInterrupt
+            else:
+                passwd += ch
+        termios.tcsetattr(fd, termios.TCSADRAIN, old)
+        return passwd
+    except:
+        return input(prompt)
+
+# ==== Key Generation ====
+def generate_key(password):
+    try:
+        hashed = hashlib.sha256(password.encode()).digest()
+        return base64.urlsafe_b64encode(hashed)
+    except:
+        return None
+
+# ==== Random Name ====
+def random_filename(length=16):
+    return ''.join(random.choices(string.ascii_letters + string.digits, k=length))
+
+# ==== Encrypt File ====
+def encrypt_file(filepath, key, outdir):
+    try:
+        fernet = Fernet(key)
+        with open(filepath, 'rb') as file:
+            data = file.read()
+        encrypted = fernet.encrypt(data)
+        rand_name = random_filename()
+        out_path = os.path.join(outdir, rand_name + '.locked')
+        with open(out_path, 'wb') as f:
+            f.write(encrypted)
+        return out_path
+    except Exception as e:
+        print(f"[!] Error encrypting: {filepath} — {e}")
+        return None
+
+# ==== Decrypt File ====
+def decrypt_file(filepath, key, outdir):
+    try:
+        fernet = Fernet(key)
+        with open(filepath, 'rb') as file:
+            encrypted = file.read()
+        decrypted = fernet.decrypt(encrypted)
+        out_name = os.path.basename(filepath).replace('.locked', '')
+        out_path = os.path.join(outdir, out_name)
+        with open(out_path, 'wb') as f:
+            f.write(decrypted)
+        return out_path
+    except Exception as e:
+        print(f"[!] Wrong password or error: {filepath}")
+        return None
+
+# ==== Logger ====
+def log_action(action, path):
+    with open("S_Secure_log.txt", "a") as log:
+        log.write(f"[{datetime.now()}] {action}: {path}\n")
+
+# ==== Save Password Hash ====
+def save_password_hash(password):
+    with open(".password_hash", "w") as f:
+        f.write(hashlib.sha256(password.encode()).hexdigest())
+
+def check_password(password):
+    if not os.path.exists(".password_hash"):
+        return False
+    with open(".password_hash", "r") as f:
+        saved_hash = f.read().strip()
+    return saved_hash == hashlib.sha256(password.encode()).hexdigest()
+
+# ==== Main Program ====
+def main():
+    os.makedirs("Locked_Files", exist_ok=True)
+    os.makedirs("Unlocked_Files", exist_ok=True)
+
+    loading_spinner()
+
+    if not os.path.exists(".password_hash"):
+        print("🛡️ First time setup.")
+        password = get_secure_input("🔐 Set a new password: ")
+        save_password_hash(password)
+        print("✅ Password set successfully!\n")
+    else:
+        password = get_secure_input("🔑 Enter your password: ")
+        if not check_password(password):
+            print("❌ Wrong password!")
+            return
+
+    key = generate_key(password)
+    if not key:
+        print("[X] Key generation failed.")
+        return
+
+    mode = input("🔄 Mode (lock/unlock): ").strip().lower()
+    folder = input("📁 Enter target folder path: ").strip()
+
+    if not os.path.exists(folder):
+        print("❌ Invalid path.")
+        return
+
+    success = 0
+    failed = 0
+
+    files = [os.path.join(folder, f) for f in os.listdir(folder)
+             if os.path.isfile(os.path.join(folder, f))]
+
+    for file in tqdm(files, desc="Processing"):
+        if mode == 'lock':
+            out = encrypt_file(file, key, "Locked_Files")
+            if out:
+                log_action("Encrypted", out)
+                success += 1
+            else:
+                failed += 1
+        elif mode == 'unlock' and file.endswith('.locked'):
+            out = decrypt_file(file, key, "Unlocked_Files")
+            if out:
+                log_action("Decrypted", out)
+                success += 1
+            else:
+                failed += 1
+        else:
+            failed += 1
+
+    print(f"\n✅ Success: {success} | ❌ Failed: {failed}")
+    print("📁 Encrypted files saved in Locked_Files/")
+    print("📁 Decrypted files saved in Unlocked_Files/")
+
+if __name__ == "__main__":
+    try:
+        main()
+    except KeyboardInterrupt:
+        print("\n❌ Interrupted. Exiting.")

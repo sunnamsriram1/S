@@ -1,0 +1,191 @@
+[2025-07-24 13:14:29.475826] 🔐 Encrypted 668 files from /data/data/com.termux/files/home/sqlmap
+[2025-07-24 13:14:46.949041] 💥 Self-destruct triggered.
+
+[📥 Start Decryption: 2025-07-24 14:07:29.205561] Folder: /data/data/com.termux/files/home/storage/documents
+[✔️ Decryption Done: 2025-07-24 14:07:30.337976] Restored: 0, Failed: 76
+[2025-07-24 14:16:58.885266] 💥 Self-destruct triggered.
+[2025-07-24 14:17:24.526664] 🔐 Encrypted 152 files from /data/data/com.termux/files/home/storage/documents
+[2025-07-24 14:20:10.299431] ✅ Restored 152 files.
+[2025-07-24 14:31:44.697935] 💥 Self-destruct triggered.
+[2025-07-24 14:32:17.235984] 🔐 Encrypted 152 files from /data/data/com.termux/files/home/storage/documents
+[2025-07-24 14:34:54.396662] ✅ Restored 152 files.
+[2025-07-24 14:35:36.969320] ❌ Failed to decrypt 1Hnf1yTVUhAalgXm: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/1Hnf1yTVUhAalgXm'
+[2025-07-24 14:35:36.969660] ❌ Failed to decrypt df5kUDvkCzDiH7Ra: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/df5kUDvkCzDiH7Ra'
+[2025-07-24 14:35:36.969892] ❌ Failed to decrypt 38pGUoFWFePUNwb6: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/38pGUoFWFePUNwb6'
+[2025-07-24 14:35:36.970085] ❌ Failed to decrypt NxmUrsE4s59j3kSe: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/NxmUrsE4s59j3kSe'
+[2025-07-24 14:35:36.970271] ❌ Failed to decrypt GUzqY0D4VEdZYJHo: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/GUzqY0D4VEdZYJHo'
+[2025-07-24 14:35:36.970472] ❌ Failed to decrypt DsZ37hzFeGq4bpeW: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/DsZ37hzFeGq4bpeW'
+[2025-07-24 14:35:36.970653] ❌ Failed to decrypt l46LyJC2Q25TCTbm: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/l46LyJC2Q25TCTbm'
+[2025-07-24 14:35:36.970824] ❌ Failed to decrypt gdMyCb2rqzxYm5Es: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/gdMyCb2rqzxYm5Es'
+[2025-07-24 14:35:36.970997] ❌ Failed to decrypt FWXektUVLomcLoFh: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/FWXektUVLomcLoFh'
+[2025-07-24 14:35:36.971169] ❌ Failed to decrypt N2QnVFom7jtCZGnq: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/N2QnVFom7jtCZGnq'
+[2025-07-24 14:35:36.971337] ❌ Failed to decrypt DyIvg80ExHmWYpw2: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/DyIvg80ExHmWYpw2'
+[2025-07-24 14:35:36.971507] ❌ Failed to decrypt INJSxTg5Va8Vq8YF: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/INJSxTg5Va8Vq8YF'
+[2025-07-24 14:35:36.971676] ❌ Failed to decrypt DCHA6i8hrQjTvLoS: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/DCHA6i8hrQjTvLoS'
+[2025-07-24 14:35:36.971928] ❌ Failed to decrypt fgPLXkojM9fhIz0V: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/fgPLXkojM9fhIz0V'
+[2025-07-24 14:35:36.972126] ❌ Failed to decrypt eQxMMTsG8hTPTtwW: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/eQxMMTsG8hTPTtwW'
+[2025-07-24 14:35:36.972302] ❌ Failed to decrypt qMZyXblKtCEMNj9O: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/qMZyXblKtCEMNj9O'
+[2025-07-24 14:35:36.972471] ❌ Failed to decrypt K5Bc8uqdsWhABcie: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/K5Bc8uqdsWhABcie'
+[2025-07-24 14:35:36.972640] ❌ Failed to decrypt 33Bb6Zz1v7jMIy96: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/33Bb6Zz1v7jMIy96'
+[2025-07-24 14:35:36.972859] ❌ Failed to decrypt 6hlXNxyzppODShNN: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/6hlXNxyzppODShNN'
+[2025-07-24 14:35:36.973036] ❌ Failed to decrypt rYyqQ0Q3FouJwK7w: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/rYyqQ0Q3FouJwK7w'
+[2025-07-24 14:35:36.973207] ❌ Failed to decrypt sGsSOzbHcTDycmnQ: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/sGsSOzbHcTDycmnQ'
+[2025-07-24 14:35:36.973377] ❌ Failed to decrypt 6zuQTivQOMgmaDj2: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/6zuQTivQOMgmaDj2'
+[2025-07-24 14:35:36.973545] ❌ Failed to decrypt Si7WH9SZBvbLPyZg: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/Si7WH9SZBvbLPyZg'
+[2025-07-24 14:35:36.973710] ❌ Failed to decrypt kMl1O88O9VVLyIu9: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/kMl1O88O9VVLyIu9'
+[2025-07-24 14:35:36.973913] ❌ Failed to decrypt 72t6kbW2uFFRFo3P: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/72t6kbW2uFFRFo3P'
+[2025-07-24 14:35:36.974085] ❌ Failed to decrypt tKdpa44V5RVC0XZ4: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/tKdpa44V5RVC0XZ4'
+[2025-07-24 14:35:36.974257] ❌ Failed to decrypt EY1Hm8l5E9K0fx8P: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/EY1Hm8l5E9K0fx8P'
+[2025-07-24 14:35:36.974437] ❌ Failed to decrypt k8kY8j0CjXzupgJX: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/k8kY8j0CjXzupgJX'
+[2025-07-24 14:35:36.974613] ❌ Failed to decrypt ajwbR2b0FGgNvOnI: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/ajwbR2b0FGgNvOnI'
+[2025-07-24 14:35:36.974782] ❌ Failed to decrypt qttUXByZI5Qilwze: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/qttUXByZI5Qilwze'
+[2025-07-24 14:35:36.974953] ❌ Failed to decrypt RNmfFWo0B3rm4iz0: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/RNmfFWo0B3rm4iz0'
+[2025-07-24 14:35:36.975121] ❌ Failed to decrypt ZUFEqDhUZkalXOuh: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/ZUFEqDhUZkalXOuh'
+[2025-07-24 14:35:36.975289] ❌ Failed to decrypt laib3d0B6zniW3wp: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/laib3d0B6zniW3wp'
+[2025-07-24 14:35:36.975457] ❌ Failed to decrypt Wa8GJUJBTv4uPmsC: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/Wa8GJUJBTv4uPmsC'
+[2025-07-24 14:35:36.975628] ❌ Failed to decrypt RSE30pK7mUKc2os5: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/RSE30pK7mUKc2os5'
+[2025-07-24 14:35:36.975839] ❌ Failed to decrypt soB9v8TzedUaTM6s: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/soB9v8TzedUaTM6s'
+[2025-07-24 14:35:36.976027] ❌ Failed to decrypt Mr2is0YtZ95fEJIx: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/Mr2is0YtZ95fEJIx'
+[2025-07-24 14:35:36.976214] ❌ Failed to decrypt uZUuMoOHq1Bl3g6T: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/uZUuMoOHq1Bl3g6T'
+[2025-07-24 14:35:36.976391] ❌ Failed to decrypt 74wXA2mEB0l9xN0A: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/74wXA2mEB0l9xN0A'
+[2025-07-24 14:35:36.976564] ❌ Failed to decrypt vgoQ3RebiA6M1z3j: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/vgoQ3RebiA6M1z3j'
+[2025-07-24 14:35:36.976733] ❌ Failed to decrypt fD7TSQbQ4s5DOGiS: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/fD7TSQbQ4s5DOGiS'
+[2025-07-24 14:35:36.976902] ❌ Failed to decrypt GcFi9Bj9frApLhdh: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/GcFi9Bj9frApLhdh'
+[2025-07-24 14:35:36.977071] ❌ Failed to decrypt JCZ36APhcnKpZm3z: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/JCZ36APhcnKpZm3z'
+[2025-07-24 14:35:36.977245] ❌ Failed to decrypt mGdbo9QTtYrAhXCa: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/mGdbo9QTtYrAhXCa'
+[2025-07-24 14:35:36.977414] ❌ Failed to decrypt UKhrif7lBY1erLhX: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/UKhrif7lBY1erLhX'
+[2025-07-24 14:35:36.977582] ❌ Failed to decrypt QBSHk72uCWM8pSgy: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/QBSHk72uCWM8pSgy'
+[2025-07-24 14:35:36.977748] ❌ Failed to decrypt FisSLf62LGyLteap: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/FisSLf62LGyLteap'
+[2025-07-24 14:35:36.977960] ❌ Failed to decrypt pAWgPbaOoZSvfIj4: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/pAWgPbaOoZSvfIj4'
+[2025-07-24 14:35:36.978137] ❌ Failed to decrypt YxqvKbRP4ylAtbBt: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/YxqvKbRP4ylAtbBt'
+[2025-07-24 14:35:36.978304] ❌ Failed to decrypt 3kNiiICOxc0PUzU2: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/3kNiiICOxc0PUzU2'
+[2025-07-24 14:35:36.978474] ❌ Failed to decrypt kCUtzgkjFj1T1FLB: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/kCUtzgkjFj1T1FLB'
+[2025-07-24 14:35:36.978640] ❌ Failed to decrypt 8NkwsizbZ1Nz4hR9: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/8NkwsizbZ1Nz4hR9'
+[2025-07-24 14:35:36.978806] ❌ Failed to decrypt l8Qid26r6xElFjKX: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/l8Qid26r6xElFjKX'
+[2025-07-24 14:35:36.979001] ❌ Failed to decrypt WOOa2UarcV0k1BeC: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/WOOa2UarcV0k1BeC'
+[2025-07-24 14:35:36.979174] ❌ Failed to decrypt 7uw8OO5tyjkelQm0: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/7uw8OO5tyjkelQm0'
+[2025-07-24 14:35:36.979342] ❌ Failed to decrypt qM7o7yc0u5MFlCzF: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/qM7o7yc0u5MFlCzF'
+[2025-07-24 14:35:36.979509] ❌ Failed to decrypt z8fV06nQ8cBYFLXE: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/z8fV06nQ8cBYFLXE'
+[2025-07-24 14:35:36.979677] ❌ Failed to decrypt Pc0K5ChH3245dcoj: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/Pc0K5ChH3245dcoj'
+[2025-07-24 14:35:36.979904] ❌ Failed to decrypt O6gnmzKS4NpX86Ex: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/O6gnmzKS4NpX86Ex'
+[2025-07-24 14:35:36.980087] ❌ Failed to decrypt GbJJ92oh1w9OrSCa: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/GbJJ92oh1w9OrSCa'
+[2025-07-24 14:35:36.980257] ❌ Failed to decrypt LAkL5l6GQ7zIwNtq: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/LAkL5l6GQ7zIwNtq'
+[2025-07-24 14:35:36.980423] ❌ Failed to decrypt vSt9OEayqzSXsv18: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/vSt9OEayqzSXsv18'
+[2025-07-24 14:35:36.980590] ❌ Failed to decrypt BsotUD67ip9MbDxO: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/BsotUD67ip9MbDxO'
+[2025-07-24 14:35:36.980778] ❌ Failed to decrypt LB3VC56FzNZwcmyf: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/LB3VC56FzNZwcmyf'
+[2025-07-24 14:35:36.980957] ❌ Failed to decrypt oD5OBNdJ5t0UQFwN: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/oD5OBNdJ5t0UQFwN'
+[2025-07-24 14:35:36.981128] ❌ Failed to decrypt sfthHUcK92yaXHJ5: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/sfthHUcK92yaXHJ5'
+[2025-07-24 14:35:36.981296] ❌ Failed to decrypt QQTPmZ5v3kXIV8yo: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/QQTPmZ5v3kXIV8yo'
+[2025-07-24 14:35:36.981461] ❌ Failed to decrypt 0G3xOYUchTZ48GCU: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/0G3xOYUchTZ48GCU'
+[2025-07-24 14:35:36.981629] ❌ Failed to decrypt ucBWB71eLWqDgyCG: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/ucBWB71eLWqDgyCG'
+[2025-07-24 14:35:36.981797] ❌ Failed to decrypt VQwCToXpRgTiuF2Z: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/VQwCToXpRgTiuF2Z'
+[2025-07-24 14:35:36.981965] ❌ Failed to decrypt OYc0ED4xILyk8wes: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/OYc0ED4xILyk8wes'
+[2025-07-24 14:35:36.982134] ❌ Failed to decrypt xsJvN5iD6x3SPKnM: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/xsJvN5iD6x3SPKnM'
+[2025-07-24 14:35:36.982299] ❌ Failed to decrypt 8IvFhWRQwzYElESc: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/8IvFhWRQwzYElESc'
+[2025-07-24 14:35:36.982464] ❌ Failed to decrypt yPyO6LYMXhLuO5kr: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/yPyO6LYMXhLuO5kr'
+[2025-07-24 14:35:36.982629] ❌ Failed to decrypt KsS8uOHiZFri7Yta: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/KsS8uOHiZFri7Yta'
+[2025-07-24 14:35:36.982795] ❌ Failed to decrypt 1C6hsAldPUmiCj9g: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/1C6hsAldPUmiCj9g'
+[2025-07-24 14:35:36.982965] ❌ Failed to decrypt 7ZfmpRC0U0NFGLtX: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/7ZfmpRC0U0NFGLtX'
+[2025-07-24 14:35:36.983132] ❌ Failed to decrypt 7g0413vMfrbkb3J5: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/7g0413vMfrbkb3J5'
+[2025-07-24 14:35:36.983298] ❌ Failed to decrypt figKruQXAnLInHIF: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/figKruQXAnLInHIF'
+[2025-07-24 14:35:36.983465] ❌ Failed to decrypt N3D0OrWubvS18x91: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/N3D0OrWubvS18x91'
+[2025-07-24 14:35:36.983634] ❌ Failed to decrypt awD8q523WUmCpuCg: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/awD8q523WUmCpuCg'
+[2025-07-24 14:35:36.983845] ❌ Failed to decrypt JhndV7Mb17n8vjgG: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/JhndV7Mb17n8vjgG'
+[2025-07-24 14:35:36.984066] ❌ Failed to decrypt lgT0u2RyA4qnkfNm: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/lgT0u2RyA4qnkfNm'
+[2025-07-24 14:35:36.984241] ❌ Failed to decrypt G2T5WkpOGzfCql7t: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/G2T5WkpOGzfCql7t'
+[2025-07-24 14:35:36.984415] ❌ Failed to decrypt 3mahxV8IHLlnH4yL: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/3mahxV8IHLlnH4yL'
+[2025-07-24 14:35:36.984584] ❌ Failed to decrypt nkHGCF0hbpA6ZEnp: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/nkHGCF0hbpA6ZEnp'
+[2025-07-24 14:35:36.984753] ❌ Failed to decrypt XrVq1oaoQMKXx2iE: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/XrVq1oaoQMKXx2iE'
+[2025-07-24 14:35:36.984921] ❌ Failed to decrypt oYf4pvuEdut0K7Aw: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/oYf4pvuEdut0K7Aw'
+[2025-07-24 14:35:36.985090] ❌ Failed to decrypt PoiFlPs7VfAPg9SY: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/PoiFlPs7VfAPg9SY'
+[2025-07-24 14:35:36.985259] ❌ Failed to decrypt gnjhETdUAWq3IhCJ: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/gnjhETdUAWq3IhCJ'
+[2025-07-24 14:35:36.985430] ❌ Failed to decrypt 3D8tiWAkGX3x2ie1: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/3D8tiWAkGX3x2ie1'
+[2025-07-24 14:35:36.985604] ❌ Failed to decrypt npSZD9pZYRBYniEN: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/npSZD9pZYRBYniEN'
+[2025-07-24 14:35:36.985775] ❌ Failed to decrypt mE3pWRuttOTUTfVg: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/mE3pWRuttOTUTfVg'
+[2025-07-24 14:35:36.985947] ❌ Failed to decrypt wASUVUnFmTUCMPSy: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/wASUVUnFmTUCMPSy'
+[2025-07-24 14:35:36.986120] ❌ Failed to decrypt SL7ifqwjrhlQ65lj: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/SL7ifqwjrhlQ65lj'
+[2025-07-24 14:35:36.986296] ❌ Failed to decrypt pofzvI6r0LW5WfNI: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/pofzvI6r0LW5WfNI'
+[2025-07-24 14:35:36.986466] ❌ Failed to decrypt 5YnzsKPOu6msrjUz: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/5YnzsKPOu6msrjUz'
+[2025-07-24 14:35:36.986635] ❌ Failed to decrypt yb5mYtebqld2mx5o: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/yb5mYtebqld2mx5o'
+[2025-07-24 14:35:36.986802] ❌ Failed to decrypt PX8aqbVc0KYwFTWf: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/PX8aqbVc0KYwFTWf'
+[2025-07-24 14:35:36.987021] ❌ Failed to decrypt qMN2M39wzWgJYpYm: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/qMN2M39wzWgJYpYm'
+[2025-07-24 14:35:36.987200] ❌ Failed to decrypt WhLprDxDLTDsMHS0: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/WhLprDxDLTDsMHS0'
+[2025-07-24 14:35:36.987370] ❌ Failed to decrypt CpC3heAoPUSm7Q0b: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/CpC3heAoPUSm7Q0b'
+[2025-07-24 14:35:36.987540] ❌ Failed to decrypt lAJawWMmRKNN0vVn: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/lAJawWMmRKNN0vVn'
+[2025-07-24 14:35:36.987709] ❌ Failed to decrypt SK8HCzUoa8gjoyyq: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/SK8HCzUoa8gjoyyq'
+[2025-07-24 14:35:36.987977] ❌ Failed to decrypt BylheB1B5AbKvyV8: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/BylheB1B5AbKvyV8'
+[2025-07-24 14:35:36.988182] ❌ Failed to decrypt oUqPc2M25eU8Z6KO: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/oUqPc2M25eU8Z6KO'
+[2025-07-24 14:35:36.988360] ❌ Failed to decrypt 0ImX2BmgS5NWzJ8s: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/0ImX2BmgS5NWzJ8s'
+[2025-07-24 14:35:36.988533] ❌ Failed to decrypt gkmOPierTN3h1nNR: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/gkmOPierTN3h1nNR'
+[2025-07-24 14:35:36.988702] ❌ Failed to decrypt xBkyA6eCZs5GCMop: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/xBkyA6eCZs5GCMop'
+[2025-07-24 14:35:36.988868] ❌ Failed to decrypt HZKEiie6bI0r1R99: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/HZKEiie6bI0r1R99'
+[2025-07-24 14:35:36.989084] ❌ Failed to decrypt S9k3TF6XX2pZKir9: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/S9k3TF6XX2pZKir9'
+[2025-07-24 14:35:36.989301] ❌ Failed to decrypt 11mACK3zJFh3O45G: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/11mACK3zJFh3O45G'
+[2025-07-24 14:35:36.989482] ❌ Failed to decrypt QIkIs9oU6CfjSUn7: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/QIkIs9oU6CfjSUn7'
+[2025-07-24 14:35:36.989653] ❌ Failed to decrypt 3yJ6ruJ6f3llned0: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/3yJ6ruJ6f3llned0'
+[2025-07-24 14:35:36.989824] ❌ Failed to decrypt D5e7EwT5JgZb2Frd: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/D5e7EwT5JgZb2Frd'
+[2025-07-24 14:35:36.989992] ❌ Failed to decrypt ZNqya0KSEVdXaATp: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/ZNqya0KSEVdXaATp'
+[2025-07-24 14:35:36.990162] ❌ Failed to decrypt tyrVAESc2FEilwpy: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/tyrVAESc2FEilwpy'
+[2025-07-24 14:35:36.990330] ❌ Failed to decrypt cJpSThRzFI5Yvml4: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/cJpSThRzFI5Yvml4'
+[2025-07-24 14:35:36.990498] ❌ Failed to decrypt Ave7q8RTunvnLpEJ: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/Ave7q8RTunvnLpEJ'
+[2025-07-24 14:35:36.990664] ❌ Failed to decrypt 7z7Oiw2opwJlzxWI: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/7z7Oiw2opwJlzxWI'
+[2025-07-24 14:35:36.990834] ❌ Failed to decrypt MTsiqV6KWWqmgwGS: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/MTsiqV6KWWqmgwGS'
+[2025-07-24 14:35:36.991005] ❌ Failed to decrypt ekQIZ3lnIgyXrZlH: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/ekQIZ3lnIgyXrZlH'
+[2025-07-24 14:35:36.991174] ❌ Failed to decrypt XsS9BSp8UygoJMwl: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/XsS9BSp8UygoJMwl'
+[2025-07-24 14:35:36.991343] ❌ Failed to decrypt C1X9Kc6RL8iDSTXa: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/C1X9Kc6RL8iDSTXa'
+[2025-07-24 14:35:36.991513] ❌ Failed to decrypt ED3bDE8vgzyFGYT4: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/ED3bDE8vgzyFGYT4'
+[2025-07-24 14:35:36.991681] ❌ Failed to decrypt 7KN73NJjPjycgpEe: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/7KN73NJjPjycgpEe'
+[2025-07-24 14:35:36.991942] ❌ Failed to decrypt bKW079D9Ac5cmSd3: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/bKW079D9Ac5cmSd3'
+[2025-07-24 14:35:36.992153] ❌ Failed to decrypt 6XZ8cGHZa28gy9VA: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/6XZ8cGHZa28gy9VA'
+[2025-07-24 14:35:36.992316] ❌ Failed to decrypt hZbpGs1pgYRyuL0b: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/hZbpGs1pgYRyuL0b'
+[2025-07-24 14:35:36.992466] ❌ Failed to decrypt sD8q4auIGaaj3sbO: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/sD8q4auIGaaj3sbO'
+[2025-07-24 14:35:36.992613] ❌ Failed to decrypt KdhwVmeACYKtzfuv: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/KdhwVmeACYKtzfuv'
+[2025-07-24 14:35:36.992770] ❌ Failed to decrypt DmjIlIKo05gy7QMr: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/DmjIlIKo05gy7QMr'
+[2025-07-24 14:35:36.992921] ❌ Failed to decrypt xMNjOy3XNkaYqf4j: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/xMNjOy3XNkaYqf4j'
+[2025-07-24 14:35:36.993120] ❌ Failed to decrypt j7aTKJIigyW4AqKe: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/j7aTKJIigyW4AqKe'
+[2025-07-24 14:35:36.993272] ❌ Failed to decrypt CRvsrjX8zuCyfn7e: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/CRvsrjX8zuCyfn7e'
+[2025-07-24 14:35:36.993418] ❌ Failed to decrypt 8RPLrJHDWMK6IUNx: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/8RPLrJHDWMK6IUNx'
+[2025-07-24 14:35:36.993563] ❌ Failed to decrypt 8JTkvcDcUpCi5Y8G: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/8JTkvcDcUpCi5Y8G'
+[2025-07-24 14:35:36.993710] ❌ Failed to decrypt O9oirNMa2JkoV205: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/O9oirNMa2JkoV205'
+[2025-07-24 14:35:36.993857] ❌ Failed to decrypt m9IggYZPPuZ0dM98: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/m9IggYZPPuZ0dM98'
+[2025-07-24 14:35:36.994003] ❌ Failed to decrypt N2mqe2ynXaKxCRHH: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/N2mqe2ynXaKxCRHH'
+[2025-07-24 14:35:36.994187] ❌ Failed to decrypt lkgOtJWO92KaLHsh: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/lkgOtJWO92KaLHsh'
+[2025-07-24 14:35:36.994310] ❌ Failed to decrypt lWx5vQU3CfUpYqMP: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/lWx5vQU3CfUpYqMP'
+[2025-07-24 14:35:36.994429] ❌ Failed to decrypt gTLFSh5fcqEBHsg8: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/gTLFSh5fcqEBHsg8'
+[2025-07-24 14:35:36.994530] ❌ Failed to decrypt 9p79QOEoWQdWFdpL: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/9p79QOEoWQdWFdpL'
+[2025-07-24 14:35:36.994623] ❌ Failed to decrypt sA5CxIiIRdB9Qxi0: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/sA5CxIiIRdB9Qxi0'
+[2025-07-24 14:35:36.994713] ❌ Failed to decrypt zKBc84BMLyYYoePJ: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/zKBc84BMLyYYoePJ'
+[2025-07-24 14:35:36.994801] ❌ Failed to decrypt k9Niq7f4DG9pKLZ8: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/k9Niq7f4DG9pKLZ8'
+[2025-07-24 14:35:36.994889] ❌ Failed to decrypt 1I9O925eP24Weu3e: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/1I9O925eP24Weu3e'
+[2025-07-24 14:35:36.994978] ❌ Failed to decrypt 13yHhQGKvGkCaT7d: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/13yHhQGKvGkCaT7d'
+[2025-07-24 14:35:36.995066] ❌ Failed to decrypt L9CuOo70PbpBHxpR: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/L9CuOo70PbpBHxpR'
+[2025-07-24 14:35:36.995154] ❌ Failed to decrypt fLR3Y2tPwEPzYM1S: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/fLR3Y2tPwEPzYM1S'
+[2025-07-24 14:35:36.995244] ❌ Failed to decrypt VkjsHag3fdE4pugm: [Errno 2] No such file or directory: 'ENCRYPTED_FILES/VkjsHag3fdE4pugm'
+[2025-07-24 14:35:36.995931] ✅ Restored 152 files.
+[2025-07-24 14:36:06.707116] 💥 Self-destruct triggered.
+[2025-07-24 14:36:59.437018] 🔐 Encrypted 152 files from /data/data/com.termux/files/home/storage/documents
+[2025-07-24 14:37:28.600943] 💥 Self-destruct triggered.
+[2025-07-24 14:42:39.733648] 🔐 Encrypted 152 files from /data/data/com.termux/files/home/storage/documents
+[2025-07-24 14:58:04.501253] 💥 Self-destruct triggered.
+[2025-07-24 14:58:42.091997] 🔐 Encrypted 152 files from /data/data/com.termux/files/home/storage/documents
+[2025-07-24 14:58:51.436013] 💥 Self-destruct triggered.
+[2025-07-24 15:33:27.652761] 💥 Self-destruct triggered.
+[2025-07-24 15:34:16.932044] 🔐 Encrypted 152 files from /data/data/com.termux/files/home/storage/documents
+[2025-07-24 17:05:24.985297] ✅ Restored 152 files.
+[2025-07-24 17:19:55.225596] 💥 Self-destruct triggered.
+[2025-07-24 17:34:14.973239] 🔐 Encrypted 152 files from /data/data/com.termux/files/home/storage/documents
+[2025-07-24 17:45:29.732088] ✅ Restored 152 files.
+[2025-07-24 17:51:31.432920] 💥 Self-destruct triggered.
+
+[📥 Start Decryption: 2025-07-24 17:52:18.560373] Folder: /data/data/com.termux/files/home/storage/documents
+[✔️ Decryption Done: 2025-07-24 17:52:20.055862] Restored: 0, Failed: 69
+
+[📥 Start Decryption: 2025-07-24 18:46:42.625857] Folder: /data/data/com.termux/files/home/storage/documents
+[✔️ Decryption Done: 2025-07-24 18:46:44.543909] Restored: 0, Failed: 83
+
+[📥 Start Decryption: 2025-07-24 18:47:13.551477] Folder: /data/data/com.termux/files/home/storage/documents
+[✔️ Decryption Done: 2025-07-24 18:47:15.274725] Restored: 0, Failed: 83
+[2025-07-24 20:13:40.486782] 💥 Self-destruct triggered.
+[2025-07-24 20:15:05.545367] 🔐 Encrypted 1833 files from /data/data/com.termux/files/home/Ram
+[2025-07-24 21:00:49.664525] 💥 Self-destruct triggered.
+[2025-07-24 21:18:54.348199] Decryption success.

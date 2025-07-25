@@ -1,0 +1,8 @@
+[2025-07-20 02:54:35.748997] 🔐 T.py encrypted from torsocks.py
+[2025-07-20 02:56:41.193142] 🔐 TT.py encrypted from torsocks.py
+[2025-07-20 03:04:15.124823] 🔐 T.py encrypted from torsocks.py
+[2025-07-20 03:05:00.972314] 🔐 Sql4.sh encrypted from SqlTor4.sh
+[2025-07-20 03:08:19.326695] 🔐 Sql411.sh encrypted from Sql41.sh
+[2025-07-20 03:19:08.250261] 🔐 Ss.sh encrypted from SqlTor3.sh
+[2025-07-20 11:22:21.263415] 🔐 SqlT2.sh encrypted from SqlTor2.sh
+[2025-07-20 12:15:21.113456] 🔐 SqlTor5.3v.sh encrypted from SqlTor5.3.sh
